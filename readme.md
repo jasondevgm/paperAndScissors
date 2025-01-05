@@ -12,7 +12,7 @@ Este es un juego de piedra, papel o tijera implementado en Python. Dos jugadores
 1. Clona este repositorio en tu máquina local.
 2. Instala las dependencias necesarias ejecutando:
     ```bash
-    pip install inquirer
+    pip install inquirer 
     ```
 
 ## Cómo jugar
