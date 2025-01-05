@@ -11,7 +11,7 @@ class Player:
 
     def greeting(self):
         print(f"Hola me llamo {self.name}")
- 
+  
 # Define the choices for inquirer prompts
 colour_choice = [
     inquirer.List('Choice', message="  Selecciona tu color",

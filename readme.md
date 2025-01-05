@@ -2,7 +2,7 @@
 
 Este es un juego de piedra, papel o tijera implementado en Python. Dos jugadores pueden jugar el juego en la misma computadora.
 
-## Requisitos
+## Requisitos 
 
 - Python 3.x
 - Biblioteca `inquirer`
