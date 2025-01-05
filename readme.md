@@ -2,6 +2,8 @@
 
 Este es un juego de piedra, papel o tijera implementado en Python. Dos jugadores pueden jugar el juego en la misma computadora.
 
+![Piedra, Papel o Tijera!](paperAndScissors.gif "Piedra, Papel o Tijera")
+
 ## Requisitos 
 
 - Python 3.x
